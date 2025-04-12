@@ -1,2 +1,1 @@
 # acmicpc
-C
